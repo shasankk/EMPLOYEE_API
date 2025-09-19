@@ -40,3 +40,8 @@ Follow these steps to set up the project on your local machine:
      ```bash
      git clone https://github.com/shasankk/EMPLOYEE_API.git
      cd EMPLOYEE_API
+
+
+## Video Explanation
+Here there is an Explanation video for the whole Project.
+
